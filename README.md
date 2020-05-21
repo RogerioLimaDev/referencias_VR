@@ -10,8 +10,12 @@ http://seenxr.com
 https://community.theta.tv/stream/#top
 
 
+# NReal
+
 <b>Hand Tracking Comes To Nreal AR Glasses</b>
 
 https://vrscout.com/news/nreal-ar-glasses-native-hand-tracking/
+
+https://developer.nreal.ai/?utm_source=em&utm_medium=em&utm_campaign=518
 
 
