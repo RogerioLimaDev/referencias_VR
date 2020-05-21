@@ -1,7 +1,7 @@
 # referencias_VR
 Repositório de links para consultar ou estudar sobre realidade virtual
 
-<b><color= red>Smart Eye Tracking Enabled Networking for Mobile XR</color></b>
+<b><color= 255>Smart Eye Tracking Enabled Networking for Mobile XR</color></b>
 
 http://seenxr.com
 
